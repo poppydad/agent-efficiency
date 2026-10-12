@@ -1,0 +1,13 @@
+{
+  "name": "local-mods",
+  "owner": {
+    "name": "poppydad"
+  },
+  "plugins": [
+    {
+      "name": "agent-efficiency",
+      "source": "./"
+    }
+  ],
+  "description": "Personal Claude Code mods"
+}

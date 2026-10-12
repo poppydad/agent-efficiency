@@ -1,0 +1,7 @@
+{
+  "name": "agent-efficiency",
+  "version": "0.1.0",
+  "author": { "name": "poppydad" },
+  "description": "Tracks each subagent's model, tokens, tools and time, scores whether a cheaper model would have done, and keeps a bounded per-repo log under ~/.claude/agent-efficiency.",
+  "types": "./types/index.d.ts"
+}
